@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>G:/ITID/2016 FALL/OO Game Programming/a4PongAlexBirju/a4PongAlexBirju/Pong/Pong/Content/backround/pongTable.jpg</File>
+    <File>G:/ITID/2016 FALL/OO Game Programming/a4PongAlexBirju/a4PongAlexBirju/Pong/Pong/Content/images/Bat.png</File>
+    <File>G:/ITID/2016 FALL/OO Game Programming/a4PongAlexBirju/a4PongAlexBirju/Pong/Pong/Content/font/nameFont.spritefont</File>
+    <File>G:/ITID/2016 FALL/OO Game Programming/a4PongAlexBirju/a4PongAlexBirju/Pong/Pong/Content/images/ball.png</File>
+    <File>G:/ITID/2016 FALL/OO Game Programming/a4PongAlexBirju/a4PongAlexBirju/Pong/Pong/Content/font/textFont.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>
